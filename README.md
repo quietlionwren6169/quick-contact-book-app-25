@@ -1,2 +1,9 @@
-# quick-contact-book-app-25
-A simple contact book project
+# Contact Book
+
+A simple contact book project.
+\n
+## Getting Started
+
+```bash
+python contact.py
+```
